@@ -23,8 +23,8 @@ We wanted to make it easy for 70 million deaf people across the world to be inde
 
 ## Screenshots
 
-![Example screenshot](./img/Capture1.PNG)
-![Example screenshot](./img/Capture.PNG)
+![Example screenshot](./Capture1.PNG)
+![Example screenshot](./Capture.PNG)
 
 ## Technologies and Tools
 * Python 
