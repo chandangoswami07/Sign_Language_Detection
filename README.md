@@ -143,6 +143,6 @@ Features that can be added:
 * Add more sign languages
 
 ## Contact
-Created by me with my teammates [Chandan Goswami(https://github.com/Abhimanyu0p) 
+Created by me [Chandan Goswami(https://github.com/Abhimanyu0p) 
 
  
